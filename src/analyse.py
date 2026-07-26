@@ -4,13 +4,7 @@ analyse.py
 Kernanalyse (GeoPandas) voor "Optimale Locaties voor EV-Laadpalen in
 Amsterdam".
 
-Uitgevoerde stappen (conform de opdracht):
-  1. Buurten, bestaande laadpalen en bevolkingsdichtheid inladen
-  2. Bestaande laadpalen bufferen met 250 m (dekkingsgebied)
-  3. Gebieden BUITEN de buffer opsporen (onbedekt)
-  4. Buurten met hoge bevolkingsdichtheid zonder laadpaal in de buurt
-     identificeren
-  5. Kandidaatpunten genereren & scoren -> top 10 teruggeven
+Kandidaatpunten genereren & scoren -> top 10 teruggeven
 
 Alle geometriebewerkingen gebeuren in EPSG:28992 (Amersfoort/RD New, het
 Nederlandse metrische rijksdriehoeksstelsel) zodat "250 m" een echte
