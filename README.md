@@ -6,7 +6,7 @@ van bestaande laadpalen vallen, en op basis daarvan de **10 beste nieuwe
 locaties voor EV-laadpalen** voorstelt — gebaseerd op **echte open data**.
 
 **Resultaat:** [`outputs/top10_kandidaten.csv`](outputs/top10_kandidaten.csv)
-en de interactieve kaart [`outputs/interactieve_kaart.html`](outputs/interactieve_kaart.html).
+
 
 ## Gebruikte databronnen (echt)
 
