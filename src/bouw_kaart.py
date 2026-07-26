@@ -1,10 +1,9 @@
 """
 bouw_kaart.py
 -------------
-Bouwt de uiteindelijke interactieve Folium-kaart: choropleth van de
+choropleth van de
 bevolkingsdichtheid per buurt, bestaande laadpalen, dekkingsgebied van 250
 m, en de top-10 aanbevolen locaties.
-Uitvoeren: python3 src/bouw_kaart.py
 Output: outputs/interactieve_kaart.html
 """
 import os
