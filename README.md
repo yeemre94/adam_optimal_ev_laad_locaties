@@ -45,11 +45,10 @@ ev-project/
 │       └── ev_laadpalen_bestaand.geojson       # Verwerkt: bestaande laadpalen
 ├── notebooks/
 │   └── ev_laadpaal_analyse.ipynb               # Hoofdanalyse (met uitgevoerde output)
-├── qgis/
-│   └── QGIS_HANDLEIDING.md                     # Dezelfde analyse uitvoeren in QGIS
+
 ├── outputs/
 │   ├── top10_kandidaten.csv                    # Resultaat: top 10 voorgestelde locaties
-│   └── interactieve_kaart.html                 # Interactieve Folium-kaart
+│   └── interactieve_kaart                      # Interactieve Folium-kaart #in progres#
 ├── src/
 │   ├── verwerk_echte_data.py                   # Zet ruwe brondata om naar bruikbare GeoJSON
 │   ├── analyse.py                              # Buffer / dekkingsgat / scoring-functies
