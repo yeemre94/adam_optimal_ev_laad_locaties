@@ -1,8 +1,4 @@
 """
-verwerk_echte_data.py
----------------------
-Zet de ruwe brondata om naar bruikbare GeoJSON-bestanden voor de analyse
-(analyse.py en bouw_kaart.py).
 
 Bronnen:
   1. buurten_amsterdam_lat_lon.json - buurtgrenzen Amsterdam (gemeente
